@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# React build
+dist/
+build/
+
+# Spring Boot
+target/
+*.class
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+.DS_Store
